@@ -1,5 +1,5 @@
 # mapishi
-Kenyan National AIDS Data Management
+ETL for Kenyan National AIDS Data
 
 ---
 
